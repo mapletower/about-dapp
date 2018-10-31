@@ -104,7 +104,7 @@
 
 ---
 
-![](./images/img02.jpg)
+<Image src='./images/img02.jpg' size='100% auto'/>
 
 ---
 
@@ -123,8 +123,7 @@
 
 ---
 
-![](./images/img03.jpg)
-
+<Image src='./images/img03.jpg' size='100% auto'/>
 
 ---
 
@@ -167,8 +166,6 @@ https://github.com/wangshijun/ethereum-contract-workflow
 8. [以太坊开发测试网络列表](https://testnet.etherscan.io/)
 
 ---
-
-export default Split
 
 ![](./images/avatar.jpg)
 
